@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'MetricRegular';
+  src: url("./Metric-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'MetricBold';
+  src: url("./Metric-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'MetricThin';
+  src: url("./Metric-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'MetricRegularItalic';
+  src: url("./Metric-RegularItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'MetricMedium';
+  src: url("./Metric-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'MetricLight';
+  src: url("./Metric-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal; }

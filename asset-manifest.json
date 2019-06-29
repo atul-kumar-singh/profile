@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.2cce8147.chunk.css",
-    "main.js": "/profile/static/js/main.772440e6.chunk.js",
-    "main.js.map": "/profile/static/js/main.772440e6.chunk.js.map",
+    "main.css": "/profile/static/css/main.e27b3697.chunk.css",
+    "main.js": "/profile/static/js/main.e6035fe2.chunk.js",
+    "main.js.map": "/profile/static/js/main.e6035fe2.chunk.js.map",
     "runtime~main.js": "/profile/static/js/runtime~main.cc8686f1.js",
     "runtime~main.js.map": "/profile/static/js/runtime~main.cc8686f1.js.map",
-    "static/js/2.b41502e9.chunk.js": "/profile/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/profile/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.0a5998a3.chunk.js": "/profile/static/js/2.0a5998a3.chunk.js",
+    "static/js/2.0a5998a3.chunk.js.map": "/profile/static/js/2.0a5998a3.chunk.js.map",
     "index.html": "/profile/index.html",
-    "precache-manifest.3ace7c9c7b4102d2d59601121f515e7d.js": "/profile/precache-manifest.3ace7c9c7b4102d2d59601121f515e7d.js",
+    "precache-manifest.3c59dc921c99cc48f85ec4763a412d32.js": "/profile/precache-manifest.3c59dc921c99cc48f85ec4763a412d32.js",
     "service-worker.js": "/profile/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/profile/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/profile/static/media/logo.5d5d9eef.svg"
+    "static/css/main.e27b3697.chunk.css.map": "/profile/static/css/main.e27b3697.chunk.css.map",
+    "static/media/App.css": "/profile/static/media/MyImage.1b7a0fe3.jpg",
+    "static/media/RGPV.png": "/profile/static/media/RGPV.19827417.png",
+    "static/media/akki.jpeg": "/profile/static/media/akki.3504cf78.jpeg",
+    "static/media/github.png": "/profile/static/media/github.438c93c0.png",
+    "static/media/kendriya_vidyalaya.png": "/profile/static/media/kendriya_vidyalaya.e6b235af.png",
+    "static/media/linkedinProfileImage.png": "/profile/static/media/linkedinProfileImage.ef8b38e7.png",
+    "static/media/logo.svg": "/profile/static/media/logo.5d5d9eef.svg",
+    "static/media/mayank.jpeg": "/profile/static/media/mayank.112bdd7e.jpeg",
+    "static/media/nishant.jpeg": "/profile/static/media/nishant.45014008.jpeg",
+    "static/media/soumya.jpeg": "/profile/static/media/soumya.3fed738a.jpeg"
   }
 }
