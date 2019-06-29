@@ -4,6 +4,10 @@
   "private": true,
   "homepage": "http://atul-kumar-singh.github.io/profile",
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "easy-pie-chart": "^2.1.7",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
